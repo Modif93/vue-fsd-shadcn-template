@@ -10,7 +10,7 @@ vue3 with
 - pinia
 - vue-router
 - [tailwindcss(v4)](https://tailwindcss.com/)
-- [shadcn-vue (with reka-ui)](https://www.shadcn-vue.com/)
+- [shadcn-vue](https://www.shadcn-vue.com/) (with [reka-ui](https://reka-ui.com/))
 
 in [Feature-Sliced Design](https://feature-sliced.github.io) Architecture
 
@@ -39,4 +39,16 @@ npm run dev
 
 ```sh
 npm run build
+```
+
+### Format Codes
+
+```sh
+npm run format
+```
+
+### Check FSD structure
+
+```sh
+npm run steiger
 ```
