@@ -1,1 +1,1 @@
-export {default as IncCountButton} from './ui/IncCountButton.vue'
+export { default as IncCountButton } from './ui/IncCountButton.vue'

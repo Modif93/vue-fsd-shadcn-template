@@ -1,1 +1,1 @@
-export {default as CountLabel} from './ui/CountLabel.vue'
+export { default as CountLabel } from './ui/CountLabel.vue'
